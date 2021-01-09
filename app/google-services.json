@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642177454997",
+    "project_id": "dettext-29885",
+    "storage_bucket": "dettext-29885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642177454997:android:44f86b2322fb8e2ab45c9c",
+        "android_client_info": {
+          "package_name": "com.ayushab06.dettext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642177454997-oss3n40kuf5e2n5cesbvgep364emiddb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayushab06.dettext",
+            "certificate_hash": "bfbe22db555b3b29b768717802943ad7a9e0d725"
+          }
+        },
+        {
+          "client_id": "642177454997-449811909aglo9c7sqk3095m1p1i7b6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFnzA8trU__3NKCxm8w-BR6wQ7-b4VRCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642177454997-449811909aglo9c7sqk3095m1p1i7b6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
